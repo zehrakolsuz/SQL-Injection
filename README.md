@@ -141,8 +141,8 @@ def main():
 -----
 
 ## Developers (Geliştiriciler)
-- Zehra Kolsuz
-- Keyvan Arasteh 
-- QLineTech 
+- [Zehra Kolsuz](https://github.com/zehrakolsuz)
+- [Keyvan Arasteh](https://github.com/keyvanarasteh)
+- [QLineTech](https://github.com/QLineTech/Q-Pentest/blob/main/modules/web/SQL_injection_with_playwright.py)
 
 
