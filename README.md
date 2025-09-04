@@ -139,3 +139,10 @@ def main():
     (Daha kolay kullanım ve yapılandırma için komut satırı arayüzü (CLI).)
 
 -----
+
+## Developers (Geliştiriciler)
+- Zehra Kolsuz
+- Keyvan Arasteh 
+- QLineTech 
+
+
